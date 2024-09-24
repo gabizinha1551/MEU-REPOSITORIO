@@ -1,0 +1,17 @@
+body{
+
+    background-color: #FF1493;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#container{
+     display: flex;
+
+}
+
+.cartao{
+
+    margin: 1rem 1rem;
+    background-color: aliceblue;
+}
